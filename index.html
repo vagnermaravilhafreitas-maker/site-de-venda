@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Simulador de Venda de Motos</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div id="game-container">
+        <h1>Simulador de Venda de Motos</h1>
+        
+        <div id="stats">
+            <p>Orçamento: <span id="budget">R$ 50.000,00</span></p>
+            <p>Motos Vendidas: <span id="sales-count">0</span></p>
+        </div>
+
+        <div id="market">
+            <h2>Motos Disponíveis para Compra</h2>
+            </div>
+
+        <div id="inventory">
+            <h2>Seu Estoque</h2>
+            <p id="inventory-message">Nenhuma moto no estoque.</p>
+        </div>
+
+        <div id="message-area">
+            </div>
+        
+        <button onclick="startGame()">Começar Jogo / Novo Dia</button>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
