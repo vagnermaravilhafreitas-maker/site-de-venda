@@ -5,10 +5,10 @@ let inventory = []; // Array para armazenar motos compradas
 
 // Lista de motos disponíveis para o mercado
 const marketBikes = [
-    { id: 1, name: "Scooter Urbana", cost: 8000, maxProfit: 3000 },
-    { id: 2, name: "Street 150cc", cost: 12000, maxProfit: 4500 },
-    { id: 3, name: "Trail 300cc", cost: 25000, maxProfit: 8000 },
-    { id: 4, name: "Esportiva 600cc", cost: 45000, maxProfit: 15000 }
+    { id: 1, name: "xj6", cost: 50000, maxProfit: 20000 },
+    { id: 2, name: "Honda Biz", cost: 15000, maxProfit: 4500 },
+    { id: 3, name: "Kawasaki Ninja", cost: 62000, maxProfit: 31000 },
+    { id: 4, name: "BMW S1000RR", cost: 57900, maxProfit: 25000 }
 ];
 
 // --- Funções Auxiliares ---
