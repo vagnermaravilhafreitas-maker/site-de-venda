@@ -56,7 +56,9 @@ h2 {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 10px 0;
+    padding: 10px 0;Nenhuma moto no estoque.
+
+
     border-bottom: 1px dashed #ddd;
 }
 
@@ -66,7 +68,9 @@ h2 {
 
 .motorcycle-item p {
     margin: 0;
-}
+}Nenhuma moto no estoque.
+
+
 
 .buy-btn, .sell-btn {
     background-color: #4CAF50; /* Verde */
