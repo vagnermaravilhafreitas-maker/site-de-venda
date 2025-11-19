@@ -8,8 +8,7 @@ const marketBikes = [
     { id: 1, name: "xj6", cost: 50000, maxProfit: 20000 },
     { id: 2, name: "Honda Biz", cost: 15000, maxProfit: 4500 },
     { id: 3, name: "Kawasaki Ninja", cost: 62000, maxProfit: 31000 },
-    { id: 4, name: "BMW S1000RR", cost: 57900, maxProfit: 22000 },
-    { id: 4, name: "Africa TWIN", cost: 102000, maxProfit: 43500 }
+    { id: 4, name: "BMW S1000RR", cost: 57900, maxProfit: 22000 }
 ];
 
 // --- Funções Auxiliares ---
